@@ -1,2 +1,2 @@
 # Recipes
-Build a website using HTML to describe my favourite recipes.
+Odin Project (Project 1)
